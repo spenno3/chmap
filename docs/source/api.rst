@@ -1,7 +1,4 @@
-API
+CHMap
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+Welcome to the CHMap User Guide!

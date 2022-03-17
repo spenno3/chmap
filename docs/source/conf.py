@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CHMap'
+copyright = '2019, The Max Planck Institute for the History of Science, The Department of History of Shanghai Jiao Tong University. Land Survey Maps of China: A Cartographic Database (MPIWG Dataset: 1885-1945, 1:50,000), The General Administration of Land Surveys. https://chmap.mpiwg-berlin.mpg.de. Published 2019. '
+author = 'Spencer Forbes'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 

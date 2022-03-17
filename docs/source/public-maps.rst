@@ -13,7 +13,6 @@ longitude).
 .. figure:: https://i.imgur.com/cNFmDSn.jpg
    :alt: publicmaps
 
-   publicmaps
 
 All Public Maps
 ~~~~~~~~~~~~~~~
@@ -24,8 +23,6 @@ region.
 
 .. figure:: https://i.imgur.com/fm0do8j.jpg
    :alt: publicmaps_all
-
-   publicmaps_all
 
 Filtering by a Place Name
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +37,6 @@ available maps will appear in a floating panel on the right.
 .. figure:: https://i.imgur.com/M29lUPE.jpg
    :alt: publicmaps_place
 
-   publicmaps_place
 
 Filtering by a (lat, long)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +47,6 @@ reveal a pin on the map.
 .. figure:: https://i.imgur.com/tyM9JGu.jpg
    :alt: publicmaps_latlong
 
-   publicmaps_latlong
 
 Then choose the location you want to filter by by dragging and dropping
 the pin to the desired location.
@@ -59,14 +54,12 @@ the pin to the desired location.
 .. figure:: https://i.imgur.com/mXYonYn.png
    :alt: drag_drop
 
-   drag_drop
 
 An overview of the location of the pin is shown in a box above the pin.
 
 .. figure:: https://i.imgur.com/W8SrvNt.png
    :alt: overview
 
-   overview
 
 Click the blue “Show available maps” button in the overview that pops up
 on the screen. The available maps will appear in a floating panel on the
@@ -75,4 +68,3 @@ right.
 .. figure:: https://i.imgur.com/ROJyzti.png
    :alt: available_maps
 
-   available_maps
